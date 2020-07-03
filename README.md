@@ -5,3 +5,6 @@ Geographic Information Systems (GIS) are a blend of computer mapping and databas
 
 ## Indicative Content
 Basic concepts of GIS, including typology of datasets, Design and operationalization of GIS solutions, Application areas of GIS demonstrated through case studies presented by experts in their professions. In parallel, students train in computer labs the use of GIS for data integration, analysis and mapping, translating a specification of a multi-criteria evaluation problem into a workable GIS decision support solution, inspired by the case studies.
+
+## Note
+- One of the Guest Lecture Slide is in a website link which is provided [here](https://prezi.com/7bndpicwsw_o/2020-applications-of-gis/?utm_campaign=share&utm_medium=copy)
